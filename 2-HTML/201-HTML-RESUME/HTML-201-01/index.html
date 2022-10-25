@@ -5,8 +5,54 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <style>
+      div {
+        border: 1px solid black;
+        padding: 10px;
+      }
+      select{
+        background-color: lightgrey;
+        border-radius: 5px;
+      }
+      button{
+        border-radius: 5px;
+      }
+    </style>
   </head>
   <body>
-    start your code here
+    <div class="form">
+      <h3>Personal Details</h3>
+      <form action="">
+        <label for="salutation">Salutation</label>
+        <br>
+        <select name="salutation" id="salutations">
+          <option value="--None--">--None--</option>
+          <option value="Mr">Mr</option>
+          <option value="Ms">Ms</option>
+          <option value="Mrs">Mrs</option>
+        </select><br><br>
+        <label for="Fname">First Name: </label>
+        <input type="text">
+        <br><br>
+        <label for="Lname">Last Name: </label>
+        <input type="text">
+        <br><br>
+        <label for="Gender">Gender: </label>
+        <input type="radio">Male</input>
+        <input type="radio">Female</input>
+        <br><br>
+        <label for="email">Email: </label>
+        <input type="email">
+        <br><br>
+        <label for="DOB">Date of Birth: </label>
+        <input type="date">
+        <br><br>
+        <label for="address">Address:</label><br>
+        <textarea name="address" id="add" cols="30" rows="5"></textarea>
+        <br>
+        <button type="submit">Submit</button>
+      </form>
+    </div>
   </body>
 </html>
+
