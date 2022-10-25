@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    
+}
+div{
+    margin-top: 20%;
+    /* position: relative; */
+    
+}
+input{
+    border-color: green;
+}
