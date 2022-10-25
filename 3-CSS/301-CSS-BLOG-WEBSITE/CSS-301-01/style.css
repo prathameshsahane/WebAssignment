@@ -1,1 +1,26 @@
 /* start your css here */
+body{
+    font-family: Georgia, serif;
+}
+div{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white !important;
+    margin: 0px 475px 0px 475px  ;
+}
+img{
+    height: 239px;
+    width: 700px;
+}
+p{
+    letter-spacing: 0.5px;
+}
+iframe{
+    height: 360px;
+    width: 500px;
+}
+footer{
+    margin-top: 50px;
+}
