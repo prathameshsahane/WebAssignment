@@ -21,7 +21,7 @@ How to use this repository
 
 | S No. | Topic     | Assignment                                | FreeCodeCamp Id | Question Done Till Now |
 | ----- | --------- | ----------------------------------------- | --------------- | --------------- |
-| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |                 |                 |
+| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |@fcc5aeb8ace-49bb-4485-854a-c811f2bdd94a                 |                 |
 
 # HTML
 
@@ -36,7 +36,7 @@ How to use this repository
 
 | S No. | Topic | Assignment                                                               | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------ | ----------- |
-| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |             |
+| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/) [CSS-301-01]               |https://prathameshsahane.github.io/WebAssignment/3-CSS/301-CSS-BLOG-WEBSITE/CSS-301-01/             |
 | 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)  [CSS-302-01]  |             |
 | 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)     [CSS-303-01]            |             |
 | 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)     [CSS-304-01]                 |             |
