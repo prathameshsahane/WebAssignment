@@ -13,7 +13,7 @@ function slideshow(num){
     }
     if(num==-1){
         num=slides.length-1;
-        flag=
+        flag=0
     }
     for(let y of slides){
         y.style.display="none";
