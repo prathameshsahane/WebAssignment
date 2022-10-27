@@ -1,1 +1,26 @@
 /* start your css here */
+.main,.content{
+    display: flex;
+    flex-direction: column;
+    /* /* justify-content: center; */
+    text-align: center;
+    /* border: 1px solid black; */
+    
+}
+.content{
+    
+    position: relative;  
+    
+}
+
+img{
+    /* text-align: center; */
+    width: 400px;
+    height: 450px;
+}
+h3{
+    margin: 0%;
+}
+#price{
+    color: grey;
+}
