@@ -1,1 +1,64 @@
 /* start your styling here  */
+.grid_container{
+    
+    height: 40rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+    'b1 b2 b2 b2 b3 b3'
+    'b4 b2 b2 b2 b5 b5'
+    'b6 b7 b8 b8 b9 b10'
+    'b11 b12 b8 b8 b13 b14'
+    ;
+    gap: 2%;
+    background-color: darkgrey;
+}
+.b1{
+    grid-area: b1;
+}
+.b2{
+    grid-area: b2;
+}
+.b3{
+    grid-area: b3;
+}
+.b4{
+    grid-area: b4;
+}
+.b5{
+    grid-area: b5;
+}
+.b6{
+    grid-area: b6;
+}
+.b7{
+    grid-area: b7;
+}
+.b8{
+    grid-area: b8;
+}
+.b9{
+    grid-area: b9;
+}
+.b10{
+    grid-area: b10;
+}
+.b11{
+    grid-area: b11;
+}
+.b12{
+    grid-area: b12;
+}
+.b13{
+    grid-area: b13;
+}
+.b14{
+    grid-area: b14;
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://cdn.pixabay.com/photo/2017/03/25/17/55/colorful-2174045_960_720.png')
+}
