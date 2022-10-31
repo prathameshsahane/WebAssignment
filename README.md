@@ -55,7 +55,7 @@ How to use this repository
 | 7     | CSS   | [CSS-SELECTORS](./3-CSS/307-Advance-CSS-Selectors/)    [CSS-307-01]          |https://prathameshsahane.github.io/WebAssignment/3-CSS/307-Advance-CSS-Selectors/CSS-307-01/             |
 | 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-01]          |https://prathameshsahane.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-01/             |
 | 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-02]          |https://prathameshsahane.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-02/             |
-| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-03]          |             |
+| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)  [CSS-308-03]          |https://prathameshsahane.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-03/             |
 | 9     | CSS   | [CSS-PSEUDO-ELEMETS](./3-CSS/309-CSS-Pseudo-Elements/) [CSS-309-01]          |             |
 | 10    | CSS   | [CSS-FINAL-PROJECTS](./3-CSS/310-Final-MCT-Projects/)  [CSS-310-01]          |             |
 
