@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rajdhani', sans-serif;
+    /* background-color: rgba(106, 106, 239, 0.756);
+     */
+     background-image: url('https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405__480.jpg');
+ }
+
+.heading{
+    width: 65%;
+    margin: 10px auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 0px 10px;
+    color: rgb(4, 49, 138);
+}
+
+.forms{
+    width: 30%;
+    margin: 50px auto;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 30px;
+}
+
+.forms input[type="text"]{
+    width: 90%;
+    height: 30px;
+    margin-bottom: 20px;
+    padding: 0px 5px;
+    font-size: 18px;
+}
+.forms input[type="text"]:focus{
+    outline: none;
+}
+#sub{
+    width: 40%;
+    height: 35px;
+    background-color: rgba(0, 0, 243, 0.648);
+    border: none;
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 600;
+}
+#sub:hover{
+    background-color: rgb(3, 3, 132);
+}
+#result{
+    width: 35%;
+    margin: 50px auto;
+    background-color: aliceblue;
+    
+}
+.head{
+    background-color:  rgb(100, 100, 230);
+    color: whitesmoke;
+    text-align: center;
+    padding: 1px 0px;
+}
+.res{
+    padding: 20px 30px 30px 40px;
+    font-size: 25px;
+}
+
+.res p span{
+    color: brown;
+}
+.name{
+    color: aqua;
+}
