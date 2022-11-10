@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+body, h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Rajdhani', sans-serif;
+    background-color: lightgrey;
+ }
+h1{
+    font-size: 40px;
+}
+ .container{
+    margin: 40px auto;
+    text-align: center;
+ }
+
+ input{
+    margin-top: 50px;
+    width: 500px;
+    font-size: 20px;
+    height: 25px;
+ }
+input{
+    border: 2px solid rgb(115, 178, 255);
+}
+ input:focus{
+    outline-color: aqua;
+    padding: 0px 15px;
+ }
+
+ #images{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 30px auto;
+    
+ }
+ #images img{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+ }
