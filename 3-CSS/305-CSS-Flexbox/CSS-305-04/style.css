@@ -1,1 +1,21 @@
 /* start your styling here  */
+#navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+a{
+    color: white;
+}
+.flex_item{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 4%;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.flex_item h6{
+    color: grey;
+    padding-top: 15%;
+    background-color: whitesmoke;
+}
